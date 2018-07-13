@@ -1,4 +1,14 @@
 body{
-  background-image: linear-gradient();
+  background-color: ;
+  background-image: url("img/ping.jpeg");
+}
+h1{
+  font-size: 50px;
+  font-style: italic;
+  font-weight: bolder;
+  text-align: center;
+}
+.topnav{
   background-color: red;
+  height: 180px;
 }
