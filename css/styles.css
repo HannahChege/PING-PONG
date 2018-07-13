@@ -1,6 +1,6 @@
 body{
   background-color: ;
-  background-image: url("img/ping.jpeg");
+  background-image: url();
 }
 h1{
   font-size: 50px;
@@ -9,6 +9,22 @@ h1{
   text-align: center;
 }
 .topnav{
-  background-color: red;
+  background-color: #f15a29;
   height: 180px;
+}
+.col-md-2{
+  background-color: white;
+  height: 500px;
+  width: 200px;
+}
+.col-md-10{
+   background-color:#f15a29;
+   height: 500px;
+   animation-name: example;
+   animation-duration: 4s;
+}
+.footernav{
+  background-color:#f15a29;
+  height: 40;
+
 }
