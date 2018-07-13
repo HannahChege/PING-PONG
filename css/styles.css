@@ -1,27 +1,30 @@
 body{
   background-color: ;
-  background-image: url();
 }
 h1{
   font-size: 50px;
   font-style: italic;
   font-weight: bolder;
   text-align: center;
+  text-decoration: inherit;
 }
 .topnav{
   background-color: #f15a29;
   height: 180px;
+  background-image: url(../img/pong.jpeg);
+  background-repeat: no-repeat;
 }
-.col-md-2{
+.col-md-4{
   background-color: white;
   height: 500px;
   width: 200px;
 }
-.col-md-10{
+.col-md-8{
    background-color:#f15a29;
    height: 500px;
    animation-name: example;
    animation-duration: 4s;
+
 }
 .footernav{
   background-color:#f15a29;
