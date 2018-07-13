@@ -1,10 +1,11 @@
 
 h1{
-  font-size: 50px;
+  font-size: 40px;
   font-style: italic;
   font-weight: bolder;
   text-align: center;
   text-decoration: inherit;
+
 }
 .topnav{
   background-color: #f15a29;
@@ -21,12 +22,12 @@ h1{
   font-style: italic;
 }
 .col-md-8{
-   background-color:#f15a29;
+   background-color:gold;
    height: 500px;
    animation-name: example;
    animation-duration: 4s;
-   background-image: url(../img/piny.jpeg);
    background-size: cover;
+
 
 }
 .footernav{
