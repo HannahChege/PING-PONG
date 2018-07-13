@@ -1,6 +1,4 @@
-body{
-  background-color: ;
-}
+
 h1{
   font-size: 50px;
   font-style: italic;
@@ -11,19 +9,24 @@ h1{
 .topnav{
   background-color: #f15a29;
   height: 180px;
-  background-image: url(../img/pong.jpeg);
+   background-image: url(../img/piny.jpeg);
   background-repeat: no-repeat;
+  background-size: cover;
 }
 .col-md-4{
   background-color: white;
   height: 500px;
   width: 200px;
+  font-size: 20px;
+  font-style: italic;
 }
 .col-md-8{
    background-color:#f15a29;
    height: 500px;
    animation-name: example;
    animation-duration: 4s;
+   background-image: url(../img/piny.jpeg);
+   background-size: cover;
 
 }
 .footernav{
