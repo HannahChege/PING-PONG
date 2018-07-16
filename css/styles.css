@@ -1,37 +1,18 @@
+.jumbotron{
+  padding-left: 35%;
+  background-image: url("photo.jpeg");
+  background-color: #A04000;
 
-h1{
-  font-size: 40px;
+}
+h4{
   font-style: italic;
-  font-weight: bolder;
-  text-align: center;
-  text-decoration: inherit;
-
+  font-size: 85px;
 }
 .topnav{
-  background-color: #f15a29;
-  height: 180px;
-   background-image: url(../img/piny.jpeg);
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.col-md-4{
-  background-color: white;
-  height: 500px;
-  width: 200px;
-  font-size: 20px;
-  font-style: italic;
-}
-.col-md-8{
-   background-color:gold;
-   height: 500px;
-   animation-name: example;
-   animation-duration: 4s;
-   background-size: cover;
-
-
+  padding-left: 35%;
 }
 .footernav{
-  background-color:#f15a29;
-  height: 40;
-
+  padding-left: 35%;
+  font-size: 85px;
+  background-color: lightblue;
 }
